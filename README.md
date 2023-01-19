@@ -1,4 +1,4 @@
-# Tana_portfolio
+# Predicting NBA 3-Point Shooting
 Data Science Portfolio projects and what I am currently working on. 
 
 Project 1: NBA three-point shooting prediction.Project Overview:
